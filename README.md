@@ -20,8 +20,13 @@ A notebook containing techniques used in image processing such as:
 - Scale-invariant feature transform (SIFT) -> (coming soon)
 
 ![spectrogram](img/denoise.png)
+
 Denoising an image using different techniques.
+
 ![spectrogram](img/canny.png)
+
 Applying the Canny algorithm for edge detection.
+
 ![spectrogram](img/clahe.png)
+
 Amplifying image contrast using contrast limited adaptive histogram equlization (CLAHE)
