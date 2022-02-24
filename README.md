@@ -16,7 +16,7 @@ A notebook containing techniques used in image processing such as:
 - Segmentation
 - Contouring
 - Edge Detection
-- Corner Detection -> (coming soon)
+- Corner Detection
 - Scale-invariant feature transform (SIFT) -> (coming soon)
 
 ![spectrogram](img/denoise.png)
